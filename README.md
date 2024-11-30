@@ -1,4 +1,4 @@
-# 🚀 5 Days of React.js Challenge
+# 🚀 5 Weeks of React.js Challenge
 
 **Date Started:** November 29, 2024  
 **End Date:** December 2024
